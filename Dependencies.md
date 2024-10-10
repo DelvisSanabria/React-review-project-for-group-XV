@@ -12,3 +12,6 @@ Para realizar enrutado instalaremos la libreria encargada de ello
 
 npm install react-router-dom
 
+Si quieres usar TailwindCss puedes seguir esta guia:
+
+https://tailwindcss.com/docs/guides/vite
